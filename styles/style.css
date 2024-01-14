@@ -68,8 +68,6 @@
   z-index: 0;
   inset: 0;
   background: rgba(0, 0, 0, 0.6);
-
-
 }
 
 .cover__title {
@@ -149,7 +147,6 @@ letter-spacing: 60px;
 .lots {
   padding: 0 24px;
   margin-top: 179px;
-
 }
 
 .lots__heading {
